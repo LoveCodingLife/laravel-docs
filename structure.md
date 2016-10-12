@@ -89,7 +89,7 @@
 <a name="the-tests-directory"></a>
 #### Tests 目录
 
-`tests` 目录包含自动化测试。这有一个现成的 [PHPUnit](https://phpunit.de/) 例子。每一个测试类都需要添加 `Test` 前缀，你可以使用 `phpunit` 或者 `php vendor/bin/phpunit` 命令来运行测试。
+`tests` 目录包含自动化测试。这有一个现成的 [PHPUnit](https://phpunit.de/) 例子。每一个测试类都需要添加 `Test` 后缀，你可以使用 `phpunit` 或者 `php vendor/bin/phpunit` 命令来运行测试。
 
 <a name="the-vendor-directory"></a>
 #### Vendor 目录
